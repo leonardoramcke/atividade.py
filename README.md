@@ -1,2 +1,0 @@
-# atividade.py
-colab.research
